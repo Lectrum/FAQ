@@ -38,7 +38,7 @@
 
 ### Вопрос: как включить поддержку синтаксиса PostCSS в webStorm?
 ###### Ответ: возможно несколько вариантов:
-- `WebStorm`: [следуй этому](https://plugins.jetbrains.com/plugin/8578-postcss-support) гайду.
+- `WebStorm`: [следуй этому гайду](https://plugins.jetbrains.com/plugin/8578-postcss-support).
 
 ### Вопрос: как остановить запущенный командой npm run start (или yarn start) проект?
 ###### Ответ: В терминале нажми сочетание клавиш `CTRL` + `C`.
