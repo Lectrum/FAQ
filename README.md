@@ -16,7 +16,7 @@
 ###### Ответ: возможно два варианта.
 > `Первый`: если вы установили Node.js установщиком с сайта, то обновить тоже нужно с помощью [установщика последней версии](https://nodejs.org/en/).
 
-> `Второй`: если вы установили Node.js [через `nvm`](https://github.com/creationix/nvm), то обновить тоже нужно с помощью команды `nvm install --lts --latest-npm`.
+> `Второй`: если вы установили Node.js [через `nvm`](https://github.com/creationix/nvm), то обновить тоже нужно с помощью команды:\n `nvm install --lts --latest-npm`.
 
 ### Вопрос: в чём разница между [npm](https://www.npmjs.com/) и [yarn](https://yarnpkg.com/en/docs)?
 ###### Ответ: это два разных менеджера npm-пакетов. Можно почитать об их отличиях [здесь](https://ua-blog.com/npm-vs-yarn-%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%D1%81%D1%82%D0%BE%D0%B8%D1%82-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB/) и [здесь](https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/).
