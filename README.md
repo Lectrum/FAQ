@@ -21,10 +21,9 @@
 ### Вопрос: в чём разница между [npm](https://www.npmjs.com/) и [yarn](https://yarnpkg.com/en/docs)?
 ###### Ответ: это два разных менеджера npm-пакетов. Можно почитать об их отличиях [здесь](https://ua-blog.com/npm-vs-yarn-%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%D1%81%D1%82%D0%BE%D0%B8%D1%82-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB/) и [здесь](https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/).
 
-### Вопрос: что лучше [npm](https://www.npmjs.com/) или [yarn](https://yarnpkg.com/en/docs)?
+### Вопрос: что лучше — [npm](https://www.npmjs.com/) или [yarn](https://yarnpkg.com/en/docs)?
 ###### Ответ: на этот, как и на многие другие вопросы типа «а что лучше...?», увы, ответа-серебрянной пули нет.
 > У каждого пакета есть свои достоинства и недостатки. Мы используем [yarn](https://yarnpkg.com/en/docs), так как по нашему мнению он обладает более удобным и красивым интерфейсом.
-
 
 ### Вопрос: почему весь мой код подсвечивает редактор?
 ###### Ответ: возможно два варианта.
