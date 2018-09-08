@@ -103,7 +103,7 @@
 ✅ Ответ: есть несколько вариантов.
 + `Если у тебя Windows 10`: [установи Ubuntu shell](https://remontka.pro/linux-bash-shell-windows-10/). Это позволит тебе работать на Windows в [UNIX-окружении Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6), что намного лучше для веб-разработчика.
 + `Если у тебя Windows 8 или более ранняя`: [установи Git Bash](https://git-scm.com/download/win). Это тоже позволит тебе работать в UNIX-подобном окружении, но не настолько полноценном, как в предыдущем варианте.
-+ `CMDER`: также рекомендуем рассмотреть [оболочку CMDER](http://cmder.net/)? альтернативу обычному терминалу Windows `Command Prompt`.
++ Рекомендуем также рассмотреть [терминал CMDER](http://cmder.net/), намного лучшую альтернативу обычному терминалу Windows `Command Prompt`.
 
 #### ❓ Вопрос: какой редактор кода использовать хорошо?
 ✅ Ответ: мы [рекомендуем VSCode](https://code.visualstudio.com/). А также список лучших расширений для React-разработки:
