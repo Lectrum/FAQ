@@ -81,7 +81,7 @@
 
 <br>
 
-#### Какой редактор кода использовать хорошо?
+#### Какой редактор кода мне использовать?
 Мы рекомендуем использовать [VSCode](https://code.visualstudio.com/). Этот редактор доступен для всех основных операционных систем. А также он быстрый (быстрее [Atom](https://atom.io/)), активно развивается, а также обладает богатой базой удобных расширений. Вот список самых полезных:
 + [Babel syntax highlightin](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel): эта подсветка является самой современной, поддерживает все фичи JavaScript а также синтаксис JSX React;
 + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): лучший на сегодняшний день [линте](#-Вопрос-что-такое-линтер) JavaScript-кода для VSCode;
