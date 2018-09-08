@@ -113,7 +113,39 @@
 + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): встроенный в VSCode Prettier. С его помощью можно удобно форматировать нажатием сочетания клавиш;
 + [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): этот плагин будет автоматически обновлять имя парного тега разметки. Очень удобно.
 + [File icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons): добавляет красивые иконки для всевозможных типов файлов в сайдбаре.
-+ [File icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons): добавляет красивые иконки для всевозможных типов файлов в сайдбаре.
+
+А если ты пользователь Mac, то можно установить полный список рекомендуемых расширений [одной командой в терминале](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line):
+
+```bash
+code --install-extension aaron-bond.better-comments
+code --install-extension AlanWalk.markdown-toc
+code --install-extension alefragnani.project-manager
+code --install-extension asvetliakov.snapshot-tools
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension christian-kohler.path-intellisense
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension formulahendry.code-runner
+code --install-extension gaearon.subliminal
+code --install-extension jasonnutter.search-node-modules
+code --install-extension mgmcdermott.vscode-language-babel
+code --install-extension naumovs.color-highlight
+code --install-extension pnp.polacode
+code --install-extension redhat.vscode-yaml
+code --install-extension robertohuertasm.vscode-icons
+code --install-extension sdras.night-owl
+code --install-extension Shan.code-settings-sync
+code --install-extension shinnn.stylelint
+code --install-extension sldobri.daily
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension streetsidesoftware.code-spell-checker-russian
+code --install-extension tomphilbin.gruvbox-themes
+code --install-extension Tyriar.sort-lines
+code --install-extension yogipatel.solarized-light-no-bold
+```
 
 #### ❓ Вопрос: как остановить запущенный командой npm run start (или yarn start) проект?
 ✅ Ответ: В терминале нажми сочетание клавиш `CTRL` + `C`.
