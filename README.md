@@ -70,7 +70,7 @@
 
 #### Я пользователь Windows. Как настроить терминал для удобной работы?
 Есть несколько вариантов. Список составлен начиная из лучшего варианта, заканчивая самым обычным:
-+ `Если у Windows версии 10`: в современной веб-разработке наиболее удобным является UNIX-окружение. Чтобы настроить его [установи Ubuntu shell](https://remontka.pro/linux-bash-shell-windows-10/). Это позволит тебе работать на Windows в [UNIX-окружении Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6).
++ `Если у тебя Windows версии 10`: в современной веб-разработке наиболее удобным является UNIX-окружение. Чтобы настроить его [установи Ubuntu shell](https://remontka.pro/linux-bash-shell-windows-10/). Это позволит тебе работать на Windows в [UNIX-окружении Ubuntu](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6).
 + `Если у тебя Windows версии 8 или более ранней`: [установи Git Bash](https://git-scm.com/download/win). Это тоже позволит тебе работать в UNIX-подобном окружении, но несколько более ограниченным, чем в предыдущем варианте.
 + Рекомендуем также рассмотреть [терминал CMDER](http://cmder.net/), альтернативу обычному терминалу `Windows Command Prompt (CMD)`. Например, в CMDER есть встроенный git, а интерфейс выглядит куда приятней, чем в `Command Prompt (CMD)`.
 + Если никакой из вышеперечисленых вариантов не подойдёт, используй встроенный в Windows терминал `Command Prompt (CMD)`.
@@ -80,12 +80,12 @@
 #### Какой редактор кода мне использовать?
 Мы рекомендуем использовать [VSCode](https://code.visualstudio.com/). Этот редактор доступен для всех основных операционных систем. А также он быстрый (быстрее [Atom](https://atom.io/)), активно развивается, а также обладает богатой базой удобных расширений. Вот список самых полезных:
 + [Babel syntax highlightin](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel): эта подсветка является самой современной, поддерживает все фичи JavaScript а также синтаксис JSX React;
-+ [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): лучший на сегодняшний день [линте](#-Вопрос-что-такое-линтер) JavaScript-кода для VSCode;
++ [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): лучший на сегодняшний день [линтер](#-Вопрос-что-такое-линтер) JavaScript-кода для VSCode;
 + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): встроенный в VSCode Prettier. С его помощью можно удобно форматировать JavaScript-код нажатием сочетания клавиш. Очень удобно;
 + [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): этот плагин будет автоматически обновлять имя парного тега разметки;
 + [File icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons): добавляет красивые иконки для всевозможных типов файлов в сайдбаре.
 
-Также можно установить полный список расширений, который используется команией Lectrum одной командой в терминале:
+Также можно установить полный список расширений, который используется компанией Lectrum одной командой в терминале:
 
 ```bash
 code --install-extension aaron-bond.better-comments
@@ -118,7 +118,7 @@ code --install-extension Tyriar.sort-lines
 code --install-extension yogipatel.solarized-light-no-bold
 ```
 
-> P.S.: если в твоём терминале нет возможности вызывать Visual Studio Code из терминала с помощью **`code`**, пройди инструкцию: [Mac](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line), [Windows](https://code.visualstudio.com/docs/editor/command-line#_launching-from-command-line)
+> P.S.: перед запуском этого набора команд проверь, есть ли в твоём терминале возможность вызывать Visual Studio Code из терминала с помощью **`code`**. Для этого выполни команду **`code`** в терминале. Команда должна открыть редактор VSCode. Если этого не произошло пройди инструкцию: [Mac](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line), [Windows](https://code.visualstudio.com/docs/editor/command-line#_launching-from-command-line)
 
 <br>
 
@@ -175,7 +175,7 @@ code --install-extension yogipatel.solarized-light-no-bold
 <br>
 
 #### Что лучше: npm или yarn?
-На этот, как и на многие другие вопросы типа «а что лучше...?», увы, ответа-серебрянной пули нет.
+На этот, как и на многие другие вопросы типа «а что лучше...?», увы, однозначного ответа нет.
 > У каждого пакета есть свои достоинства и недостатки. Мы используем [yarn](https://yarnpkg.com/en/docs), так как по нашему мнению он обладает более удобным и красивым интерфейсом.
 
 <br>
