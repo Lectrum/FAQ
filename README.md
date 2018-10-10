@@ -265,7 +265,7 @@ Phantom installation failed { Error: spawn ENOMEM
 
 ```bash
 git add .
-git stash —save
+git stash save
 git checkout -b имя-ветки-с-твоим-кодом
 git stash pop
 git add .
